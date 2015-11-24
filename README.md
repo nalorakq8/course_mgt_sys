@@ -1,6 +1,6 @@
 # course_mgt_sys
 Web app for managing course grades and students interactions within/outside of class
-
+#comment
 # Setup Instructions
 1. clone the repository
 2. run `cd course_mgt_sys` to make the project your working directory
